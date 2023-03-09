@@ -1,40 +1,43 @@
-[
-    {
-        "rute": "Halte Sektor 1.3 - The Avani",
-        "halte": {
-            "Halte_Sektor_1.3":["06.00", "06.20", "06.40", "07.00"],
-            "Griya_Loka_2":["06.01", "06.21", "06.41", "07.01"],
-            "Santa_Ursula_1":["06.03", "06.23", "06.43", "07.03"],
-            
-            "The_Breeze":["06.21", "06.41", "07.01", "07.21"],
-
-            "The_Avani":["06.42", "07.02", "07.22", "07.42"]
-        }
-    },
-    {
-        "rute":"The Avani - Halte Sektor 1.3",
-        "halte": {
-            "The_Avani_Club_House":["05.00", "05.20", "05.40", "06.00"],
-            "Ammarilla":["05.01", "05.21", "05.41", "06.01"],
-
-            "The_Breeze":["05.18", "05.38", "05.58", "06.18"],
-
-            "The_Avani":["05.45", "06.05", "06.25", "06.45"]
-
-        }
-    },
-    {
-        "rute": "The Breeze - Aeon Mall - Ice - Aeon Mall - The Breeze",
-        "halte": {
-            "The_Breeze_Start":["09.00", "09.15", "09.30", "09.45"],
-            "CBD_Timur_1":["06.01", "06.21", "06.41", "07.01"],
-            "Lobby_Aeon_Mall":["09.09", "09.24", "09.39", "09.54"],
-            "Aeon_2":["09.15", "09.30", "09.45", "10.00"],
-            
-            "The_Breeze_End":["09.45", "10.00", "10.15", "10.30"]
-
-           
-        }
-    }
+{
+    "nama_halte":["Halte Sektor 1.3", "Griya Loka 2", "Santa Ursula 1", "The Breeze", "The Avani", "Ammarilla", "CBD_Timur", "Lobby Aeon Mall", "Aeon 2"],
+    "rute": [
+        {
+            "rute": "Halte Sektor 1.3 - The Avani",
+            "halte": {
+                "Halte_Sektor_1.3":["06.00", "06.20", "06.40", "07.00"],
+                "Griya_Loka_2":["06.01", "06.21", "06.41", "07.01"],
+                "Santa_Ursula_1":["06.03", "06.23", "06.43", "07.03"],
+                
+                "The_Breeze":["06.21", "06.41", "07.01", "07.21"],
     
-]
+                "The_Avani":["06.42", "07.02", "07.22", "07.42"]
+            }
+        },
+        {
+            "rute":"The Avani - Halte Sektor 1.3",
+            "halte": {
+                "The_Avani_start":["05.00", "05.20", "05.40", "06.00"],
+                "Ammarilla":["05.01", "05.21", "05.41", "06.01"],
+    
+                "The_Breeze":["05.18", "05.38", "05.58", "06.18"],
+    
+                "The_Avani_end":["05.45", "06.05", "06.25", "06.45"]
+    
+            }
+        },
+        {
+            "rute": "The Breeze - Aeon Mall - Ice - Aeon Mall - The Breeze",
+            "halte": {
+                "The_Breeze_Start":["09.00", "09.15", "09.30", "09.45"],
+                "CBD_Timur_1":["06.01", "06.21", "06.41", "07.01"],
+                "Lobby_Aeon_Mall":["09.09", "09.24", "09.39", "09.54"],
+                "Aeon_2":["09.15", "09.30", "09.45", "10.00"],
+                
+                "The_Breeze_End":["09.45", "10.00", "10.15", "10.30"]
+    
+               
+            }
+        }
+        
+    ]
+}
