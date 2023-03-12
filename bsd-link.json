@@ -12,7 +12,8 @@
                 
                 "Lobby Aeon Mall", "Aeon 2", "Ice 1", "Lobby Ice", "Ice 5"],
 
-                
+    "halte_transit":["Halte Sektor 1.3", "The Avani", "The Breeze", "CBD Timur 1", "CBD Timur 2", "CBD Utara 1", "CBD Utara 3", "CBD Barat 1", "CBD Barat 2", ""],
+
     "rute": [
         {
             "rute": "Halte Sektor 1.3 - The Avani",
