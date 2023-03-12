@@ -1,5 +1,18 @@
 {
-    "nama_halte":["Halte Sektor 1.3", "Griya Loka 2", "Santa Ursula 1", "The Breeze", "The Avani", "Ammarilla", "CBD_Timur", "Lobby Aeon Mall", "Aeon 2"],
+    "nama_halte":["Halte Sektor 1.3", "Griya Loka 2", "Santa Ursula 1", "Santa Ursula 2", "Sentra Onderdil", "Autopart",
+                "Eka Hospital_2", "East Business_District", "SWA-1", "Green Cove","The Breeze",
+                "CBD Timur 1", "CBD Timur 2", "CBD Utara 1", "CBD Utara 3", "CBD Barat 1", "CBD Barat 2",
+                "Simplicity 1", "Cosmo", "Verdant_View", "Eternity", "Terminal Intermoda", "Icon Business Park",
+                "Masjid Al-Ukhuwah", "Divena&Deshina", "The Avani", 
+                
+                
+                "Ammarilla", "Chadnya", "Univ Atmajaya", "Simplicity 2", "Edutown 1", "Edutown 2", "GOP-1", "SML Plaza", 
+                "Navapark 1", "SWA 2", "Giant", "Eka Hospital 1", "Puspita Loka", "Polsek Serpong", "Ruko Madrid", "Pasar Modern Timur", 
+                "Griya Loka 1", 
+                
+                "Lobby Aeon Mall", "Aeon 2", "Ice 1", "Lobby Ice", "Ice 5"],
+
+                
     "rute": [
         {
             "rute": "Halte Sektor 1.3 - The Avani",
@@ -39,7 +52,7 @@
                 "The_Avani":["05.00", "05.20", "05.40", "06.00"],
                 "Ammarilla":["05.01", "05.21", "05.41", "06.01"],
                 "Chadnya":["05.02", "05.22", "05.42", "06.02"],
-                "Univ._Atmajaya":["05.03", "05.23", "05.43", "06.03"],
+                "Univ_Atmajaya":["05.03", "05.23", "05.43", "06.03"],
                 "Terminal_Intermoda":["05.05", "05.25", "05.45", "06.05"],
                 "Cosmo":["05.08", "05.28", "05.48", "06.08"],
                 "Verdant_View":["05.09", "05.29", "05.49", "06.09"],
