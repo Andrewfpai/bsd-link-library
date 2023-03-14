@@ -14,9 +14,9 @@
 
     "halte_transit":["Halte Sektor 1.3", "The Avani", "The Breeze", "CBD Timur 1", "CBD Timur 2", "CBD Utara 1", "CBD Utara 3", "CBD Barat 1", "CBD Barat 2", ""],
 
-    "rute": [
+    "semua_rute": [
         {
-            "rute": "Halte Sektor 1.3 - The Avani",
+            "judul_rute": "Halte Sektor 1.3 - The Avani",
             "halte": {
                 "Halte_Sektor_1.3":["06.00", "06.20", "06.40", "07.00"],
                 "Griya_Loka_2":["06.01", "06.21", "06.41", "07.01"],
@@ -48,7 +48,7 @@
             }
         },
         {
-            "rute":"The Avani - Halte Sektor 1.3",
+            "judul_rute":"The Avani - Halte Sektor 1.3",
             "halte": {
                 "The_Avani":["05.00", "05.20", "05.40", "06.00"],
                 "Ammarilla":["05.01", "05.21", "05.41", "06.01"],
@@ -80,7 +80,7 @@
             }
         },
         {
-            "rute": "The Breeze - Aeon Mall - Ice - Aeon Mall - The Breeze",
+            "judul_rute": "The Breeze - Aeon Mall - Ice - Aeon Mall - The Breeze",
             "halte": {
                 "The_Breeze_Start":["09.00", "09.15", "09.30", "09.45"],
                 "CBD_Timur_1":["09.02", "09.17", "09.32", "09.47"],
