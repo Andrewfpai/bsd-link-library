@@ -14,6 +14,8 @@
 
     "halte_transit":["Halte Sektor 1.3", "The Avani", "The Breeze", "CBD Timur 1", "CBD Timur 2", "CBD Utara 1", "CBD Utara 3", "CBD Barat 1", "CBD Barat 2", ""],
 
+    "halte_akhir":["The Avani", "Halte Sektor 1.3"],
+
     "semua_rute": [
         {
             "judul_rute": "Halte Sektor 1.3 - The Avani",
