@@ -16,9 +16,7 @@
             
             ],
 
-    "halte_transit":["Halte Sektor 1.3", "The Avani", "The Breeze", "CBD Timur 1", "CBD Timur 2", "CBD Utara 1", "CBD Utara 3", "CBD Barat 1", "CBD Barat 2", "Vanya Park", "Ice_5", "Simplicity 1", "Simplicity_2", "Edutown_1", "Edutown_2", "Ice_1"],
-
-    "halte_akhir":["The Avani", "Halte Sektor 1.3"],
+    "halte_transit":["Halte Sektor 1.3", "The Avani", "The Breeze", "CBD Timur 1", "CBD Timur 2", "CBD Utara 1", "CBD Utara 3", "CBD Barat 1", "CBD Barat 2", "Vanya Park", "Ice_5", "Simplicity 1", "Simplicity 2", "Edutown 1", "Edutown 2", "Ice 1", "Terminal Intermoda"],
 
     "semua_rute": [
         {
